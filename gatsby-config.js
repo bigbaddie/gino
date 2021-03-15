@@ -9,7 +9,7 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // Of course you can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitleAlt: `Who is Gino Carteciano?`,
+    siteTitleAlt: `Gino Carteciano`,
     siteTitle: `Gino`,
     siteHeadline: `Gino Carteciano`,
     siteUrl: `https://www.ginocarteciano.com`,
@@ -46,9 +46,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `Gino Carteciano`,
+        short_name: `Gino`,
+        description: `Who or what is Gino Carteciano?!`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
